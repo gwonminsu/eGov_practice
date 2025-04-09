@@ -5,6 +5,6 @@
 
 <mapper namespace="testDAO">
     <select id="selectTestList" resultType="egovframework.practice.test.service.TestVO">
-        SELECT idx, name, code FROM test_t
+        SELECT idx, name, code FROM test_t 
     </select>
 </mapper>
