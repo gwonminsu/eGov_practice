@@ -34,8 +34,8 @@ public class TestController {
     public String selectSampleList(ModelMap model) throws Exception {
         List<TestVO> list = testService.getTestList();
         log.info("SELECT 데이터: {}", list);
-        model.addAttribute("testList", list);
-        return "testList";
+        model.addAttribute("testPage", list);
+        return "testPage";
     }
 
 }

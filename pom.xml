@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
     <groupId>egovframework.lab</groupId>
-    <artifactId>egovframework.guide</artifactId>
-    <packaging>jar</packaging>
+    <artifactId>egovframework.practice</artifactId>
+    <packaging>war</packaging>
     <version>4.1.0</version>
     <name>egovframework.practice</name>
     <url>http://www.egovframe.go.kr</url>

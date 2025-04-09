@@ -4,12 +4,14 @@ import egovframework.practice.test.service.TestService;
 import egovframework.practice.test.service.TestVO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 import java.util.Collections;
 import java.util.List;
 
 // Service 구현체
+@Service("testService")
 public class TestServiceImpl implements TestService {
 
     // 로거
