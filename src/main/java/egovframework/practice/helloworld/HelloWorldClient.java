@@ -1,4 +1,4 @@
-package egovframework.guide.helloworld;
+package egovframework.practice.helloworld;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

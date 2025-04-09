@@ -6,7 +6,7 @@
     <artifactId>egovframework.guide</artifactId>
     <packaging>jar</packaging>
     <version>4.1.0</version>
-    <name>egovframework.guide</name>
+    <name>egovframework.practice</name>
     <url>http://www.egovframe.go.kr</url>
 
 	<licenses>

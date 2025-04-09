@@ -1,4 +1,4 @@
-package egovframework.guide.helloworld;
+package egovframework.practice.helloworld;
 
 import org.springframework.beans.factory.annotation.Required;
 

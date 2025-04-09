@@ -1,4 +1,4 @@
-package egovframework.guide.helloworld;
+package egovframework.practice.helloworld;
 
 public interface HelloWorldService {
 	

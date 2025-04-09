@@ -1,4 +1,4 @@
-package egovframework.guide.helloworld;
+package egovframework.practice.helloworld;
 
 import static org.junit.Assert.assertEquals;
 import javax.annotation.Resource;

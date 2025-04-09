@@ -6,7 +6,7 @@
         
 	<context:annotation-config/>
 	
-	<bean name="helloworld" class="egovframework.guide.helloworld.HelloWorldServiceImpl">
+	<bean name="helloworld" class="egovframework.practice.helloworld.HelloWorldServiceImpl">
 		<property name="name">
 			<value>egov framework</value>
 		</property>
